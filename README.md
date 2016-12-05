@@ -17,7 +17,7 @@ Shell script for deploying software and settings to computers running OSX
 |New: Deletes files on Desktop when finished and   |
 |takes arguments for app options.                  |
 |Bugs: Does not implement step 13  from the KB     |
-|entry. Destroys sudoer file when attempted...     |
+|entry.                                            |
 ----------------------------------------------------
 USE THIS TO INSTALL ALL OPTIONAL APPS & SEP MANAGED:
 sudo ./MacSetupSED.sh CrashPlanPro AdobeCC Cisco_AnyConnect Microsoft_Office_2016 Identity_Finder Mozilla_Firefox Managed
