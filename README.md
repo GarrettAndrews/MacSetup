@@ -3,7 +3,7 @@ Shell script for deploying software and settings to computers running OSX
 
 Download the zip folder to use, as it includes sshpass which is required for this script to run.
 
---------------MacSetupSED Instructions--------------
+            MacSetupSED Instructions
 ----------------------------------------------------
 1. copy all files/folders to Desktop.             
 2. 'cd' to the local Desktop.                     
